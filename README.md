@@ -1,4 +1,4 @@
-# 💊 Global Pharmacy Sales Analytics Dashboard
+# 💊 Global Pharmacy Sales Analytics
 
 ![Power
 BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
